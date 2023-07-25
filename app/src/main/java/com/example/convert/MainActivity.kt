@@ -118,6 +118,6 @@ fun convertNumberToWords(number: String): String {
 @Composable
 fun GreetingPreview() {
     ConvertTheme {
-		ConvertNumberToWords()
+        ConvertNumberToWords()
     }
 }
